@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="@drawable/ic_rectangle_1"
+    android:id="@+id/info"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:padding="2dp"
+            android:src="@mipmap/ic_launcher_round" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/provider_name0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Shaikhaa"
+                android:textColor="#03A9F4" />
+
+            <TextView
+                android:id="@+id/provider_about0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="After a user signs in for the first time, a new user account is created and linked to the credentials—that is, the user name and password, phone number" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:background="#7E7E7E"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_height="2dp" />
+
+    <TextView
+        android:id="@+id/provider_experience"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Experience: From 3 years" />
+
+    <TextView
+        android:id="@+id/provider_price0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Price: 10 OM/ Per Hour" />
+
+    <TextView
+        android:id="@+id/provider_availability0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Availability: 28 Feb-05:30 AM" />
+
+</LinearLayout>

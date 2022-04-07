@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_delivery_amico.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_doctor_bone.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_eyes.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_healthy.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_hospital_bed_pana.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_medical_prescription_pana.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_rectangle_1.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/drawable/ic_skincare.xml" value="0.3609375" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_add_book.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_add_medical.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_add_to_cart.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_admin_log_in.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_admin_main_page.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_aire_conditions.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_bones.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_check_out.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_chronic.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_eyes.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_history.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_log_in.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_main_page.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_new_orers.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_order_page.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_payment_card_info.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_place_order.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_provider_main_page.xml" value="0.3229166666666667" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_sgin_up_admin.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_sgin_up_provider.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_sgin_up_user.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_skin.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/activity_sub_register_provider_page.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/add_book_info_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/add_medicien_info_layout.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/book_fields.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/cart_medicien_info_layout.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/comments_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_card_back.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_card_front.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_ccname.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_ccnumber.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_ccsecure_code.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/fragment_ccvalidity.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/info_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/info_user_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/medicien_fields.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/medicien_info_layout.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/view_book_info_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/alkas/AndroidStudioProjects/OnlinePharmacy/app/src/main/res/layout/view_medicien_info_layout.xml" value="0.34479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73076778154",
+    "project_id": "online-pharmacy-4d97f",
+    "storage_bucket": "online-pharmacy-4d97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73076778154:android:f1781bd916ab54d7771cd3",
+        "android_client_info": {
+          "package_name": "com.pharmacy.onlinepharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73076778154-tehfe1453g0ifp2idcvm6s2pftsnuqo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharmacy.onlinepharmacy",
+            "certificate_hash": "1e5e543f6876b7d5055424ef7306d5eda0ef8ee3"
+          }
+        },
+        {
+          "client_id": "73076778154-v68s4anm38lu8buiqi6m1a6ckavafogf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigj9dndid8926Z92wgnnIq4TQn8ChAcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73076778154-v68s4anm38lu8buiqi6m1a6ckavafogf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
